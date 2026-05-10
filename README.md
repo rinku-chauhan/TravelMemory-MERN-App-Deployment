@@ -414,11 +414,4 @@ The deployment includes:
 The application is accessible through a custom domain with HTTPS enabled and supports scalable traffic distribution through AWS ALB.
 
 ---
-# Author
-
-## Rinku Chauhan
-
-Aspiring DevOps & Cloud Engineer
----
-
 # Thank You
