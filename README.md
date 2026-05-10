@@ -390,7 +390,6 @@ curl http://localhost/trip
 |---|---|
 | Main Domain | https://rinku-devops.site |
 | WWW Domain | https://www.rinku-devops.site |
-| ALB DNS | http://travelmemory-alb-1331211487.ap-south-1.elb.amazonaws.com |
 
 ---
 
