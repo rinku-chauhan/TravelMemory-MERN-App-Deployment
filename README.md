@@ -16,8 +16,6 @@
 
   <img src="https://img.shields.io/badge/PM2-Process_Manager-yellow?style=for-the-badge" height="40"/>
 
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" height="40"/>
-
 </p>
 
 # Project Overview
